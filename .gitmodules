@@ -5,6 +5,9 @@
 [submodule "WorldMapR"]
 	path = WorldMapR
 	url = https://github.com/luigi-annic/worldmapr
+[submodule "chess2plyrs"]
+	path = chess2plyrs
+	url = https://github.com/luigi-annic/chess2plyrs
 [submodule "ciphertext"]
 	path = ciphertext
 	url = https://github.com/luigi-annic/ciphertext
